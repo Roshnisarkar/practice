@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.image img {
+  width: 100%;
+  height: 500px;
+
+}
+
+.creat1 {
+  font-size: 30px;
+  color: rgb(67, 209, 222);
+}
+.creat {
+  margin-top: 10px;
+  display: flex;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#head {
+  display: flex;
+  width: 100%vh;
+  height: 10vh;
+  background-color: rgb(240, 246, 251);
+  justify-content: space-around;
+}
+
+
+ul {
+  margin-top: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  gap: 30px;
+  display: flex;
+  list-style: none;
+  /* display: flex; */
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.blue a {
+  color: aqua;
+}
+
+#opt {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 17px;
+
+  background-color: rgb(240, 246, 251);
+  border: none;
+}
+
+.mainpra{
+  display: flex;
+ 
+  /* position: absolute;
+  font-size: 30px;
+  justify-content: center;*/
+ color: aliceblue;   } 
+
+
+.pra{
+  margin: 200px 0px 0px 500px;
+  position: absolute;
+  font-size: 30px;
+ 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
+ color: aliceblue;  
+
+
+}
+
+.container{
+margin: 250px 0px 0px 650px;
+position: absolute;
+font: weight 100px;;
+  /* font-size: 5px; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+
+ color: aliceblue;   
+
+}
+
+.btn{
+
+  position: absolute;
+ margin: 300px 0px 0px 660px;
+
+
+}
+
+.btn button{
+width: 150px;
+height: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+border: 0px solid aqua;
+  border-radius: 25px;
+  background-color: aqua;
+  cursor: pointer;
+
+}
+
+.pngs{
+  margin: 0px 0px 0px 0px;
+ /* justify-content: space-evenly; */
+}
+
+
+
+.fir{
+   width: 100%;
+   height: 40px;
+   justify-content: space-around;
+   background-color: black;
+justify-content: center;
+display: flex;
+
+}
+
+.fir .pngs li a img{
+  width: 25px;
+  list-style: none;
+ 
+}
+
+.no {
+  font-size: 15px;
+  /* display: flex; */
+  color: aliceblue;
+ 
+  /* position: relative; */
+  /* justify-content: space-between; */
+}
+
+
+.num{
+  color: green;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.png2 li a img{
+  width: 25px;
+  justify-content: space-between;
+  list-style: none;
+ 
+}
+
+
+.opt{
+  
+}
