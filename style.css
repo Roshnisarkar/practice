@@ -55,10 +55,6 @@ a {
 
 .mainpra{
   display: flex;
- 
-  /* position: absolute;
-  font-size: 30px;
-  justify-content: center;*/
  color: aliceblue;   } 
 
 
@@ -130,11 +126,8 @@ display: flex;
 
 .no {
   font-size: 15px;
-  /* display: flex; */
   color: aliceblue;
  
-  /* position: relative; */
-  /* justify-content: space-between; */
 }
 
 
@@ -154,5 +147,44 @@ display: flex;
 
 
 .opt{
-  
+
+
+
+
 }
+
+
+.foot{
+
+justify-content: space-around;
+display: flex;
+gap: 40px;
+
+           
+}
+
+
+.mid{
+position: absolute;
+left: 10px;
+justify-content: space-around;
+display: flex;
+gap: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
